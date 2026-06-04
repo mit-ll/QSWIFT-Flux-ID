@@ -30,4 +30,4 @@ Vortex Identification:
     4. (files needed) - vortex_finder.py, vortex_editor.py, use_model.py, model.py, {modelname}.pt
 
 
-Note: This project was created with the assistance of ChatGPT
+Note: This project was created with the assistance of AI
